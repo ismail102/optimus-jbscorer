@@ -21,12 +21,6 @@ where $P_S$ penalizes verbatim copies (too similar) and $P_H$ penalizes prompts 
 
 ---
 
-## Installation
-
-```bash
-pip install optimus-jbscorer
-```
-
 **Dependencies** (installed automatically):
 
 ```
